@@ -75,16 +75,6 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/hardik-bhimani-044492231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li> */}
               <li className="social-icons">
                 <a
                   href="https://www.instagram.com/hardik_bhimani_?igsh=MTR6Nm0zMjc5dzd1cQ=="
